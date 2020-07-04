@@ -1,4 +1,6 @@
 # MeetUp app
+et more details go to the readme f
+I have produced this app during my journey in learning how to build a full-stack app on Linkedin.
 
 ## Technologies
 #### Backend
